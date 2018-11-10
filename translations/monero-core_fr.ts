@@ -69,7 +69,7 @@
     <message>
         <location filename="../components/AddressBookTable.qml" line="105"/>
         <source>Payment ID:</source>
-        <translation>ID de paiement :</translation>
+        <translation>ID de paiement :</translation>
     </message>
     <message>
         <location filename="../components/AddressBookTable.qml" line="150"/>
@@ -149,7 +149,7 @@
     <message>
         <location filename="../pages/History.qml" line="72"/>
         <source> selected: </source>
-        <translation>Sélectionné :</translation>
+        <translation> sélectionné :</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="161"/>
@@ -192,32 +192,32 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="50"/>
         <source>Tx ID:</source>
-        <translation>ID transaction :</translation>
+        <translation>ID de transaction :</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="51"/>
         <source>Payment ID:</source>
-        <translation>ID paiement :</translation>
+        <translation>ID de paiement :</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="52"/>
         <source>Tx key:</source>
-        <translation>Clé de transaction :</translation>
+        <translation>Clé de transaction :</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="53"/>
         <source>Tx note:</source>
-        <translation>Note de transaction :</translation>
+        <translation>Note de transaction :</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="54"/>
         <source>Destinations:</source>
-        <translation>Destinations :</translation>
+        <translation>Destinations :</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="55"/>
         <source>Rings:</source>
-        <translation>Cercles: </translation>
+        <translation>Cercles :</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="80"/>
@@ -227,17 +227,17 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="154"/>
         <source>Sent</source>
-        <translation type="unfinished">Envoyé</translation>
+        <translation>Envoyé</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="154"/>
         <source>Received</source>
-        <translation type="unfinished">Reçu</translation>
+        <translation>Reçu</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="221"/>
         <source>To </source>
-        <translation type="unfinished"></translation>
+        <translation>Vers </translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="244"/>
@@ -293,7 +293,7 @@
     <message>
         <location filename="../components/HistoryTableMobile.qml" line="49"/>
         <source>Tx ID:</source>
-        <translation>ID transaction :</translation>
+        <translation>ID de transaction :</translation>
     </message>
     <message>
         <location filename="../components/HistoryTableMobile.qml" line="50"/>
@@ -303,17 +303,17 @@
     <message>
         <location filename="../components/HistoryTableMobile.qml" line="51"/>
         <source>Tx key:</source>
-        <translation>Clé de transaction :</translation>
+        <translation>Clé de transaction :</translation>
     </message>
     <message>
         <location filename="../components/HistoryTableMobile.qml" line="52"/>
         <source>Tx note:</source>
-        <translation>Note de transaction :</translation>
+        <translation>Note de transaction :</translation>
     </message>
     <message>
         <location filename="../components/HistoryTableMobile.qml" line="53"/>
         <source>Destinations:</source>
-        <translation>Destinations :</translation>
+        <translation>Destinations :</translation>
     </message>
     <message>
         <location filename="../components/HistoryTableMobile.qml" line="54"/>
@@ -514,7 +514,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="479"/>
         <source>Shared RingDB</source>
-        <translation>Base de données partagée de cercles</translation>
+        <translation>BDD partagée de cercles</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="549"/>
@@ -626,7 +626,7 @@
     <message>
         <location filename="../pages/Mining.qml" line="82"/>
         <source>Mining with your computer helps strengthen the Monero network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Monero. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation>L&apos;extraction minière avec votre ordinateur renforce le réseau Monero. Plus il y en a, plus il est difficile d&apos;attaquer le réseau, donc chaque mineur est utile.&lt;br&gt; &lt;br&gt;La mine vous donne aussi une petite chance de gagner des Moneros. Votre ordinateur va calculer des empreintes pour essayer de créer un bloc valide. Si vous trouvez un bloc, vous obtiendrez la récompense associée. Bonne chance !</translation>
+        <translation>L&apos;extraction minière avec votre ordinateur renforce le réseau Monero. Plus il y en a, plus il est difficile d&apos;attaquer le réseau, donc chaque mineur est utile.&lt;br&gt; &lt;br&gt;La mine vous donne aussi une petite chance de gagner des Moneros. Votre ordinateur va calculer des empreintes pour essayer de créer un bloc valide. Si vous trouvez un bloc, vous obtiendrez la récompense associée. Bonne chance !</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="95"/>
@@ -681,7 +681,7 @@
     <message>
         <location filename="../pages/Mining.qml" line="180"/>
         <source>Status: not mining</source>
-        <translation>Statut : pas d&apos;extraction minière</translation>
+        <translation>Statut : pas d&apos;extraction minière</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="192"/>
@@ -696,7 +696,7 @@
     <message>
         <location filename="../pages/Mining.qml" line="197"/>
         <source>Status: </source>
-        <translation>Statut :</translation>
+        <translation>Statut :</translation>
     </message>
 </context>
 <context>
@@ -704,7 +704,7 @@
     <message>
         <location filename="../components/MobileHeader.qml" line="93"/>
         <source>Unlocked Balance:</source>
-        <translation>Solde débloqué :</translation>
+        <translation>Solde débloqué :</translation>
     </message>
 </context>
 <context>
@@ -801,12 +801,12 @@
     <message>
         <location filename="../components/PasswordDialog.qml" line="86"/>
         <source>Please enter wallet password</source>
-        <translation>Entrez le mot de passe du portefeuille</translation>
+        <translation>Veuillez entrer le mot de passe du portefeuille</translation>
     </message>
     <message>
         <location filename="../components/PasswordDialog.qml" line="86"/>
         <source>Please enter wallet password for: </source>
-        <translation>Veuillez entrer votre mot de passe pour: </translation>
+        <translation>Veuillez entrer le mot de passe du portefeuille pour : </translation>
     </message>
     <message>
         <location filename="../components/PasswordDialog.qml" line="153"/>
@@ -863,7 +863,7 @@
     <message>
         <location filename="../pages/Receive.qml" line="76"/>
         <source>WARNING: no connection to daemon</source>
-        <translation>ATTENTION : non connecté au démon</translation>
+        <translation>ATTENTION : non connecté au démon</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="126"/>
@@ -903,7 +903,7 @@
     <message>
         <location filename="../pages/Receive.qml" line="161"/>
         <source>Set the label of the selected address:</source>
-        <translation>Étiqueter l&apos;adresse sélectionnée:</translation>
+        <translation>Étiqueter l&apos;adresse sélectionnée :</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="196"/>
@@ -930,7 +930,7 @@
     <message>
         <location filename="../pages/Receive.qml" line="384"/>
         <source>Set the label of the new address:</source>
-        <translation>Étiqueter cette nouvelle adresse:</translation>
+        <translation>Étiqueter cette nouvelle adresse :</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="385"/>
@@ -1274,7 +1274,7 @@ L&apos;ancien fichier du cache du portefeuille sera renommé et pourra être res
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="185"/>
         <source>Creates a new wallet that can only view and initiate transactions, but requires a spendable wallet to sign transactions before sending.</source>
-        <translation type="unfinished">Crée un nouveau portefeuille pouvant seulement voir les transactions, pas en initier</translation>
+        <translation>Crée un nouveau portefeuille pouvant seulement voir et initier les transactions, mais nécessite un portefeuille de dépense pour signer les transactions avant de les envoyer.</translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="220"/>
@@ -1319,7 +1319,7 @@ L&apos;ancien fichier du cache du portefeuille sera renommé et pourra être res
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="411"/>
         <source>Error: </source>
-        <translation>Erreur : </translation>
+        <translation>Erreur : </translation>
     </message>
     <message>
         <location filename="../pages/settings/SettingsWallet.qml" line="416"/>
@@ -1337,12 +1337,12 @@ L&apos;ancien fichier du cache du portefeuille sera renommé et pourra être res
     <message>
         <location filename="../pages/SharedRingDB.qml" line="102"/>
         <source>Shared RingDB</source>
-        <translation>Base de données partagées de cercles</translation>
+        <translation>Base de données partagée de cercles</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="106"/>
         <source>This page allows you to interact with the shared ring database. This database is meant for use by Monero wallets as well as wallets from Monero clones which reuse the Monero keys.</source>
-        <translation>Cette page vous permet d&apos;utiliser le base de données partagées de cercles. Cette base de données sert aux portefeuilles Monero et les portefeuilles des clones de Monero qui réutilisent les clés Monero</translation>
+        <translation>Cette page vous permet d&apos;utiliser le base de données partagée de cercles. Cette base de données sert aux portefeuilles Monero et les portefeuilles des clones de Monero qui réutilisent les clés Monero</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="119"/>
@@ -1375,7 +1375,7 @@ L&apos;ancien fichier du cache du portefeuille sera renommé et pourra être res
     <message>
         <location filename="../pages/SharedRingDB.qml" line="156"/>
         <source>Please choose a file from which to load outputs to mark as spent</source>
-        <translation>Choissisez un fichier pour charger les sorties blackboulées</translation>
+        <translation>Choissisez un fichier à partir duquel charger les sorties à marquer dépensées</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="172"/>
@@ -1385,7 +1385,7 @@ L&apos;ancien fichier du cache du portefeuille sera renommé et pourra être res
     <message>
         <location filename="../pages/SharedRingDB.qml" line="174"/>
         <source>Filename with outputs to mark as spent</source>
-        <translation>Nom du fichier avec les sorties à blackbouler</translation>
+        <translation>Nom du fichier avec les sorties à marquer dépensées</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="187"/>
@@ -1400,27 +1400,27 @@ L&apos;ancien fichier du cache du portefeuille sera renommé et pourra être res
     <message>
         <location filename="../pages/SharedRingDB.qml" line="214"/>
         <source>Or manually mark a single output as spent/unspent:</source>
-        <translation>Ou blackbouler/déblackbouler une seule sortie manuellement: </translation>
+        <translation>Ou marquer dépensée une seule sortie manuellement :</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="215"/>
         <source>Paste output amount</source>
-        <translation type="unfinished"></translation>
+        <translation>Coller le montant de la sortie</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="225"/>
         <source>Paste output offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Coller les décalage de sortie</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="238"/>
         <source>Mark as spent</source>
-        <translation>Blackbouler</translation>
+        <translation>Marquer dépensée(s)</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="247"/>
         <source>Mark as unspent</source>
-        <translation>déblackbouler</translation>
+        <translation>Marquer non dépensée(s)</translation>
     </message>
     <message>
         <location filename="../pages/SharedRingDB.qml" line="260"/>
@@ -1491,7 +1491,7 @@ L&apos;ancien fichier du cache du portefeuille sera renommé et pourra être res
     <message>
         <location filename="../pages/SharedRingDB.qml" line="426"/>
         <source>Segregation height:</source>
-        <translation>Hauteur de ségrégation:</translation>
+        <translation>Hauteur de ségrégation :</translation>
     </message>
 </context>
 <context>
@@ -1541,7 +1541,7 @@ L&apos;ancien fichier du cache du portefeuille sera renommé et pourra être res
     <message>
         <location filename="../pages/Sign.qml" line="154"/>
         <source>Message from file</source>
-        <translation type="unfinished"></translation>
+        <translation>Message depuis un fichier</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="155"/>
@@ -1557,12 +1557,12 @@ L&apos;ancien fichier du cache du portefeuille sera renommé et pourra être res
     <message>
         <location filename="../pages/Sign.qml" line="221"/>
         <source>Verify message</source>
-        <translation>Verifier le message</translation>
+        <translation>Vérifier le message</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="248"/>
         <source>Verify file</source>
-        <translation>Verifier le fichier</translation>
+        <translation>Vérifier le fichier</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="290"/>
@@ -1709,7 +1709,7 @@ L&apos;ancien fichier du cache du portefeuille sera renommé et pourra être res
     <message>
         <location filename="../components/TableHeader.qml" line="79"/>
         <source>Payment ID</source>
-        <translation>ID paiement</translation>
+        <translation>ID de paiement </translation>
     </message>
     <message>
         <location filename="../components/TableHeader.qml" line="80"/>
@@ -1910,14 +1910,14 @@ L&apos;ancien fichier du cache du portefeuille sera renommé et pourra être res
     <message>
         <location filename="../pages/Transfer.qml" line="490"/>
         <source>Can&apos;t load unsigned transaction: </source>
-        <translation>Impossible de charger une transaction non signée : </translation>
+        <translation>Impossible de charger une transaction non signée : </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="497"/>
         <source>
 Number of transactions: </source>
         <translation>
-Nombre de transactions : </translation>
+Nombre de transactions : </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="499"/>
@@ -1931,35 +1931,35 @@ Transaction #%1</translation>
         <source>
 Recipient: </source>
         <translation>
-Destinataire : </translation>
+Destinataire : </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="501"/>
         <source>
 payment ID: </source>
         <translation>
-identifiant de paiement : </translation>
+ID de paiement : </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="502"/>
         <source>
 Amount: </source>
         <translation>
-Montant : </translation>
+Montant : </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="503"/>
         <source>
 Fee: </source>
         <translation>
-Frais : </translation>
+Frais : </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="504"/>
         <source>
 Ringsize: </source>
         <translation>
-Taille du cercle : </translation>
+Taille du cercle : </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="518"/>
@@ -1969,7 +1969,7 @@ Taille du cercle : </translation>
     <message>
         <location filename="../pages/Transfer.qml" line="546"/>
         <source>Can&apos;t submit transaction: </source>
-        <translation>Impossible de soumettre la transaction : </translation>
+        <translation>Impossible de soumettre la transaction : </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="619"/>
@@ -2086,7 +2086,7 @@ Pour le cas d&apos;une preuve de dépense, il n&apos;est pas nécessaire de spé
         <location filename="../pages/TxKey.qml" line="84"/>
         <location filename="../pages/TxKey.qml" line="159"/>
         <source>Paste tx ID</source>
-        <translation>Coller l&apos;identifiant de transaction</translation>
+        <translation>Coller l&apos;ID de transaction</translation>
     </message>
     <message>
         <location filename="../pages/TxKey.qml" line="211"/>
@@ -2289,7 +2289,7 @@ Pour le cas d&apos;une preuve de dépense, il n&apos;est pas nécessaire de spé
     <message>
         <location filename="../wizard/WizardFinish.qml" line="87"/>
         <source>New wallet details:</source>
-        <translation>Détails du nouveau portefeuille :</translation>
+        <translation>Détails du nouveau portefeuille :</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="91"/>
@@ -2438,7 +2438,7 @@ Pour le cas d&apos;une preuve de dépense, il n&apos;est pas nécessaire de spé
     <message>
         <location filename="../wizard/WizardOptions.qml" line="87"/>
         <source>Please select one of the following options:</source>
-        <translation>Veuillez sélectionner une des options suivantes :</translation>
+        <translation>Veuillez sélectionner une des options suivantes :</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="143"/>
@@ -2494,7 +2494,7 @@ Pour le cas d&apos;une preuve de dépense, il n&apos;est pas nécessaire de spé
         <source> &lt;br&gt;Note: this password cannot be recovered. If you forget it then the wallet will have to be restored from its 25 word mnemonic seed.&lt;br/&gt;&lt;br/&gt;
                         &lt;b&gt;Enter a strong password&lt;/b&gt; (using letters, numbers, and/or symbols):</source>
         <translation> &lt;br&gt;Note : ce mot de passe ne pourra pas être récuperé. Si vous l&apos;oubliez vous devrez restaurer votre portefeuille avec sa phrase mnémonique de 25 mots.&lt;br/&gt;&lt;br/&gt;
-                        &lt;b&gt;Entrez un mot de passe fort&lt;/b&gt; (utilisant des lettres, chiffres, et/ou symboles) :</translation>
+                        &lt;b&gt;Entrez un mot de passe fort&lt;/b&gt; (utilisant des lettres, chiffres, et/ou symboles) :</translation>
     </message>
 </context>
 <context>
@@ -2553,7 +2553,7 @@ Pour le cas d&apos;une preuve de dépense, il n&apos;est pas nécessaire de spé
         <location filename="../main.qml" line="292"/>
         <location filename="../main.qml" line="401"/>
         <source>Couldn&apos;t open wallet: </source>
-        <translation>Impossible d&apos;ouvrir le portefeuille : </translation>
+        <translation>Impossible d&apos;ouvrir le portefeuille : </translation>
     </message>
     <message>
         <location filename="../main.qml" line="430"/>
@@ -2593,13 +2593,13 @@ Pour le cas d&apos;une preuve de dépense, il n&apos;est pas nécessaire de spé
     <message>
         <location filename="../main.qml" line="609"/>
         <source>Can&apos;t create transaction: Wrong daemon version: </source>
-        <translation>Impossible de créer la transaction : mauvaise version de démon : </translation>
+        <translation>Impossible de créer la transaction : mauvaise version de démon : </translation>
     </message>
     <message>
         <location filename="../main.qml" line="611"/>
         <location filename="../main.qml" line="727"/>
         <source>Can&apos;t create transaction: </source>
-        <translation>Impossible de créer la transaction : </translation>
+        <translation>Impossible de créer la transaction : </translation>
     </message>
     <message>
         <location filename="../main.qml" line="620"/>
@@ -2625,7 +2625,7 @@ Pour le cas d&apos;une preuve de dépense, il n&apos;est pas nécessaire de spé
         <source>
 Payment ID: </source>
         <translation>
-ID de paiement : </translation>
+ID de paiement : </translation>
     </message>
     <message>
         <location filename="../main.qml" line="635"/>
@@ -2643,7 +2643,7 @@ Montant : </translation>
         <source>
 Fee: </source>
         <translation>
-Frais : </translation>
+Frais : </translation>
     </message>
     <message>
         <location filename="../main.qml" line="473"/>
@@ -2675,7 +2675,7 @@ Frais : </translation>
         <source>
 Ringsize: </source>
         <translation>
-Taille du cercle : </translation>
+Taille du cercle : </translation>
     </message>
     <message>
         <location filename="../main.qml" line="638"/>
@@ -2743,22 +2743,22 @@ Spending address index: </source>
     <message>
         <location filename="../main.qml" line="1146"/>
         <source>Error: Filesystem is read only</source>
-        <translation>Erreur : Système de fichiers en lecture seule</translation>
+        <translation>Erreur : Système de fichiers en lecture seule</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1148"/>
         <source>Warning: There&apos;s only %1 GB available on the device. Blockchain requires ~%2 GB of data.</source>
-        <translation>Attention : Il y a seulement %1 GB disponibles sur le périphérique. La chaîne de blocs a besoin de ~%2 GB.</translation>
+        <translation>Attention : Il y a seulement %1 GB disponibles sur le périphérique. La chaîne de blocs a besoin de ~%2 GB.</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1150"/>
         <source>Note: There&apos;s %1 GB available on the device. Blockchain requires ~%2 GB of data.</source>
-        <translation>Note : Il y a %1 GB disponibles sur le appareil. La chaîne de blocs a besoin de ~%2 GB.</translation>
+        <translation>Note : Il y a %1 GB disponibles sur le appareil. La chaîne de blocs a besoin de ~%2 GB.</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1152"/>
         <source>Note: lmdb folder not found. A new folder will be created.</source>
-        <translation>Note : dossier lmdb non trouvé. Un nouveau répertoire va être créé.</translation>
+        <translation>Note : dossier lmdb non trouvé. Un nouveau répertoire va être créé.</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1156"/>
@@ -2773,7 +2773,7 @@ Spending address index: </source>
     <message>
         <location filename="../main.qml" line="1213"/>
         <source>Error: </source>
-        <translation>Erreur : </translation>
+        <translation>Erreur : </translation>
     </message>
     <message>
         <location filename="../main.qml" line="1736"/>
@@ -2798,7 +2798,7 @@ Spending address index: </source>
     <message>
         <location filename="../main.qml" line="1787"/>
         <source>New version of monero-wallet-gui is available: %1&lt;br&gt;%2</source>
-        <translation>Une nouvelle version de monero-wallet-gui est disponible : %1&lt;br&gt;%2</translation>
+        <translation>Une nouvelle version de monero-wallet-gui est disponible : %1&lt;br&gt;%2</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1819"/>
@@ -2819,17 +2819,17 @@ Spending address index: </source>
     <message>
         <location filename="../main.qml" line="673"/>
         <source>Amount is wrong: expected number from %1 to %2</source>
-        <translation>Montant erroné : nombre entre %1 et %2 attendu</translation>
+        <translation>Montant erroné : nombre entre %1 et %2 attendu</translation>
     </message>
     <message>
         <location filename="../main.qml" line="685"/>
         <source>Insufficient funds. Unlocked balance: %1</source>
-        <translation>fonds insuffisants. Solde débloqué : %1</translation>
+        <translation>fonds insuffisants. Solde débloqué : %1</translation>
     </message>
     <message>
         <location filename="../main.qml" line="788"/>
         <source>Couldn&apos;t send the money: </source>
-        <translation>Impossible d&apos;envoyer l&apos;argent : </translation>
+        <translation>Impossible d&apos;envoyer l&apos;argent : </translation>
     </message>
     <message>
         <location filename="../main.qml" line="791"/>
@@ -2840,7 +2840,7 @@ Spending address index: </source>
     <message>
         <location filename="../main.qml" line="797"/>
         <source>Transaction saved to file: %1</source>
-        <translation>Transaction enregistrée dans le fichier : %1</translation>
+        <translation>Transaction enregistrée dans le fichier : %1</translation>
     </message>
     <message>
         <location filename="../main.qml" line="868"/>
